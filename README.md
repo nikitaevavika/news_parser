@@ -19,7 +19,7 @@
 
 1. Скачайте проект:
 ```bash
-git clone https://github.com/ваш-username/news-parser.git
+git clone https://github.com/nikitaevavika/news_parser
 cd news-parser
 ```
 2. Установите зависимости:
@@ -46,3 +46,4 @@ python parse_news.py
 ## 👤 Автор
 
 Никитаева Виктория
+
